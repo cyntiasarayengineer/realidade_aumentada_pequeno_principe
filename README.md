@@ -1,26 +1,31 @@
-*Resumo Técnico do Projeto de Realidade Aumentada*
+# 🎮 Projeto de Realidade Aumentada com Unity e Vuforia
 
-Este projeto utiliza o Unity e o Vuforia para criar uma aplicação de Realidade Aumentada que exibe elementos virtuais ao apontar a câmera para marcadores físicos. Ao detectar um marcador específico, a aplicação exibe uma mensagem de texto sobre a tela do dispositivo, simulando um efeito visual interativo. O objetivo é demonstrar como a tecnologia de Realidade Aumentada pode ser aplicada de forma prática e didática em um contexto de aprendizado.
+Este projeto demonstra o uso de Realidade Aumentada (RA) para exibir elementos virtuais ao identificar marcadores físicos, utilizando Unity e Vuforia. Ao detectar um marcador específico, a aplicação exibe uma mensagem de texto na tela do dispositivo, criando uma experiência interativa que simula um efeito visual de RA. Esse protótipo é uma introdução prática ao uso de RA em contextos educativos.
 
-*Objetivo*
+## 🎯 Objetivo
 
-Criar um protótipo de Realidade Aumentada que reconheça imagens ou QR codes e exiba conteúdo virtual simples, como texto, ao detectar o marcador. A aplicação visa demonstrar os princípios básicos da RA e explorar o uso do Vuforia no Unity para reconhecimento de imagens.
+Desenvolver um protótipo de RA que reconheça imagens ou QR codes e exiba conteúdo virtual, como texto, ao detectar o marcador. Este projeto explora os conceitos básicos da RA e exemplifica o uso do Vuforia no Unity para reconhecimento de imagem.
 
-*Ferramentas Utilizadas*
+## 🛠️ Ferramentas Utilizadas
 
-Unity 3D: Plataforma de desenvolvimento de jogos e aplicações interativas.
-Vuforia Engine: Biblioteca para desenvolvimento de aplicações de Realidade Aumentada, integrada ao Unity para permitir o reconhecimento de imagens e a interação com objetos virtuais.
+- **Unity 3D**: Plataforma de desenvolvimento para jogos e aplicativos interativos.
+- **Vuforia Engine**: Biblioteca para criação de aplicações de RA, integrada ao Unity para reconhecimento de imagens e interação com objetos virtuais.
 
-*Descrição Técnica*
+## 📋 Descrição Técnica
 
-Configuração do Ambiente:
-Importação do pacote Vuforia no Unity e configuração do ambiente de RA.
-Criação de um marcador de imagem ou QR code no Vuforia Target Manager e integração com o projeto Unity.
+### ⚙️ Configuração do Ambiente
+1. **Importação do Vuforia**: Integração do pacote Vuforia ao Unity para adicionar funcionalidades de RA ao projeto.
+2. **Criação de Marcadores**: Configuração de imagens ou QR codes no Vuforia Target Manager para serem utilizados como marcadores de RA no Unity.
 
-*Funcionamento*
+### 🚀 Funcionamento
+Quando a câmera do dispositivo detecta o marcador físico, um script exibe o elemento de texto na tela, criando uma experiência de RA básica. Este projeto ilustra como a RA pode fornecer interatividade e informações visuais simples, sem o uso de modelos 3D ou animações complexas.
 
-Quando a câmera do dispositivo reconhece o marcador físico, o script exibe o elemento de texto na tela, simulando um efeito de Realidade Aumentada. Esse projeto é um exemplo básico que demonstra o potencial da RA para aplicações que requerem interatividade e informação visual, sem a necessidade de modelos 3D ou animações complexas.
+## 🎉 Resultados Esperados
 
-*Resultados Esperados*
+Um protótipo funcional que exemplifica a aplicação de RA em um formato simples e de fácil uso. Pode ser executado em qualquer dispositivo compatível com RA, oferecendo uma base para experimentos e aprimoramentos futuros.
 
-Um protótipo funcional que ilustra como a Realidade Aumentada pode ser aplicada a situações práticas, com uma interface simples e de fácil uso. Este projeto pode ser executado em qualquer dispositivo compatível com RA, proporcionando uma base para experimentos e melhorias futuras.
+## 🎥 Resultado Final
+
+- 📹 [Vídeo completo do projeto](https://youtu.be/nKzb1Qe8aOA)
+- 🔍 Fragmento do projeto:
+  
