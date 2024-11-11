@@ -1,3 +1,6 @@
+![github](https://github.com/user-attachments/assets/cbed0f56-5729-4d45-a68e-383be5af2cff)
+
+
 # 🎮 Projeto de Realidade Aumentada com Unity e Vuforia
 
 Este projeto demonstra o uso de Realidade Aumentada (RA) para exibir elementos virtuais ao identificar marcadores físicos, utilizando Unity e Vuforia. Ao detectar um marcador específico, a aplicação exibe uma mensagem de texto na tela do dispositivo, criando uma experiência interativa que simula um efeito visual de RA. Esse protótipo é uma introdução prática ao uso de RA em contextos educativos.
@@ -27,5 +30,5 @@ Um protótipo funcional que exemplifica a aplicação de RA em um formato simple
 ## 🎥 Resultado Final
 
 - 📹 [Vídeo completo do projeto](https://youtu.be/nKzb1Qe8aOA)
-- 🔍 Fragmento do projeto:
+
   
